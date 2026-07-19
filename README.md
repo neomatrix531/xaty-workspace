@@ -22,7 +22,7 @@ There are several limitations:
 How does that work.
 ===================
 
-The Debian graphical shell is launched using PRoot, the ultimate Linux virtualization solution: http://proot.me/
+The Debian graphical shell is launched using PRoot, the ultimate Linux virtualization solution: http://proot.me/ It runs on my server.
 Then it launches XSDL X server to render it to screen.
 
 Development.
